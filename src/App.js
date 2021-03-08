@@ -18,7 +18,7 @@ function App() {
         </p>
         <div id="lista" >
           <hr class="kox"></hr>
-          <Question  name="1.What is your linux knowledge" one="I've never used linux" two="I have some knowledge" three="I am expirenced linux user"/>
+          <Question  name="1.What ihttps://github.com/adisonInc/VibeTracker/graphs/traffics your linux knowledge" one="I've never used linux" two="I have some knowledge" three="I am expirenced linux user"/>
           <hr class="kox"></hr>
           <Question name="2.What are your setting preference" one="I like out of the box settings" two="I want to customize somethigs" three="I want to do thigs my way"/>
           <hr class="kox"></hr>
@@ -30,7 +30,7 @@ function App() {
           <br></br>
           <br></br>
           <br></br>
-          
+
         </div>
         <div class="bot">
           <a href="http://www.gnu.com">Why linux?</a>
